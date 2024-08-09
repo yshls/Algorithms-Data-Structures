@@ -1,0 +1,13 @@
+{
+  "css.format.braceStyle": "collapse",
+  "indentRainbow.colorOnWhiteSpaceOnly": false,
+  "ipynb.pasteImagesAsAttachments.enabled": true,
+  "colorize.decoration_type": "background",
+  "highlightLine.borderStyle": "solid",
+  "highlightLine.borderWidth": "2px",
+  "files.autoSave": "onFocusChange",
+  "window.autoDetectColorScheme": false,
+  "window.closeWhenEmpty": false,
+  "color-highlight.hslWithNoFunctionLanguages": ["*"],
+  "color-assist.opacity": 0.5
+}
